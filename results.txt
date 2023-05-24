@@ -1,0 +1,8 @@
+A = 11 -> solved
+B = 20 -> no context
+C = 1
+D = 0
+E = 4 -> solved
+F = 1 -> solved but not sure 
+G = 0
+H =17 -> solved
